@@ -1,0 +1,11 @@
+
+public class funcion {
+	public static void main (String  a[] ) {  
+	 scanner  x =  new scanner (System .in) ;
+	 int r= x .next +int (); 
+	 System.out.print("el valor dijitado"+r); 
+	 
+		
+	}
+
+}

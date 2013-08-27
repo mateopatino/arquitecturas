@@ -1,0 +1,33 @@
+package df;
+
+public class condicionales {
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+  int a=5,b=10,c=20;
+   if(a>b)
+    if(a>c)
+	  if(b>c)
+  		 System.out.println(""+a+b+c);   
+	 else
+		 System.out.println(""+a+c+b);
+     else
+	     System.out.println(""+c+a+b);
+     else
+      if(b>c)
+    	  
+      if(a>c)
+	  System.out.println(""+b+a+c);
+      else
+      System.out.println(""+a+c+b);
+      else
+      System.out.println(""+c+b+a);
+   
+
+		
+			
+	}
+
+}

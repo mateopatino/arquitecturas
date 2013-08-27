@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class funcion {
+	public static void main (String  a[] ) {  
+	   Scanner  x =  new Scanner (System .in) ;
+	      int r= x .nextInt (); 
+	     System.out.print("el valor dijitado"+r); 
+	       int m=x.nextInt();
+	       int a=x.nextInt();
+	       System.out.println("el numero mayor"+r);
+	       
+	       
+	       
+	       
+	       
+	           
+	           
+	            
+	 
+	
+	
+	 
+	}
+
+}
